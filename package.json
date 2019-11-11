@@ -1,0 +1,10 @@
+{
+  "name": "lerna-react-express-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ronak <ronak.raithatha@somoglobal.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.18.4"
+  }
+}
