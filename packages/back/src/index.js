@@ -1,9 +1,6 @@
-// src/index.js
-import express from 'express'
-import bodyParser from 'body-parser'
+import app from './app'
 
 const port = process.env.PORT || 5000
-const app = express()
 
 app.listen(port, err => {
   if (err) {
