@@ -9,5 +9,9 @@
   },
   "dependencies": {
     "latest": "^0.2.0"
+  },
+  "scripts": {
+    "lint": "lerna run lint --stream",
+    "start": "lerna run start --stream"
   }
 }
